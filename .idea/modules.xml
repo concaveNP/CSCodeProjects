@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysAndStrings/ArraysAndStrings.iml" filepath="$PROJECT_DIR$/ArraysAndStrings/ArraysAndStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CSCodeProjects.iml" filepath="$PROJECT_DIR$/.idea/CSCodeProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
     </modules>
   </component>
 </project>
